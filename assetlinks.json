@@ -1,0 +1,9 @@
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "codes.vida.nativeapp",
+    "sha256_cert_fingerprints":
+      ["59:64:BE:FD:06:FD:C7:EA:AD:39:6F:5B:3F:34:AB:C9:95:A7:0C:47:0E:DF:0D:7A:60:EA:41:67:1D:B9:9A:BA"]
+   }
+}
